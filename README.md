@@ -13,6 +13,8 @@ my project
 - ⚡ Fun fact **Funny**
 ![2000_600px](https://user-images.githubusercontent.com/114743961/227711622-9bbbca66-e858-4f7c-802a-621b862cb145.gif)
 
+![programmer](https://user-images.githubusercontent.com/114743961/227711730-fc23110c-240c-465d-8190-6b4093a31c29.gif)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
